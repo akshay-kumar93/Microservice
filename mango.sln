@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{B7C9556E-3E41-4199-A743-1D9868186AC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateway", "Gateway", "{15C53248-DAAD-4947-B5E2-8F83E7936E6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Intrigation", "Intrigation", "{E7711675-BD7A-45F4-8FDB-2F79172866BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Service.Coupin", "Mango.Service.Coupin\Mango.Service.Coupin.csproj", "{BC85985E-A99F-47FD-945C-644B9D51E9A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC85985E-A99F-47FD-945C-644B9D51E9A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC85985E-A99F-47FD-945C-644B9D51E9A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC85985E-A99F-47FD-945C-644B9D51E9A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC85985E-A99F-47FD-945C-644B9D51E9A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BC85985E-A99F-47FD-945C-644B9D51E9A2} = {B7C9556E-3E41-4199-A743-1D9868186AC6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A32AF27-659A-42EC-B9E3-BFABB8782F0A}
+	EndGlobalSection
+EndGlobal
